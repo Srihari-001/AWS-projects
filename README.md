@@ -1,3 +1,3 @@
 # AWS-projects
 
-Testing git commit changes
+Here, we will perform all AWS services Hands on Projects
