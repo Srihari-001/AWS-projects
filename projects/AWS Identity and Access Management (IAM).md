@@ -3,9 +3,6 @@
 ## Introduction
 AWS Identity and Access Management (IAM) is a service for managing user access and permissions in AWS accounts. In this lab, we will explore IAM's foundational aspects, focusing on user and group management and access assignment using IAM-managed policies.
 
-![Intro_to_IAM](https://github.com/Srihari-001/AWS-projects/assets/118358492/c1613be6-7dc3-43fd-9cac-11c91f926032)
-
-
 ## Solution
 1. **Log in to AWS Management Console:**
    - Use provided credentials.
