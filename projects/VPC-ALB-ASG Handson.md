@@ -7,7 +7,8 @@ using NAT gateways deployed in both availability zones.
 
 ## Architecture Diagram:
 
-![img.png](img.png)
+![VPC](https://github.com/Srihari-001/AWS-projects/assets/118358492/c264ff00-b0af-47c6-b06c-84845b1ce028)
+
 
 ### Step 1: Create VPC and Subnets
 #### Create VPC:
